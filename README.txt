@@ -1,0 +1,1 @@
+Ouvrir index.html dans un navigateur. Garder le dossier images à côté du fichier HTML.
